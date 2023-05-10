@@ -1,4 +1,4 @@
-kcbert_hatespeech
+#kcbert_hatespeech
 kcBERT fine tune model for Realtime-Troll-Filtering project
 
 https://github.com/noooey/Realtime-Troll-Filtering
